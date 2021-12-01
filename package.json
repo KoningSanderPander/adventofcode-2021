@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode-2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KoningSanderPander/adventofcode-2021.git",
+  "author": "Sander <54803741+KoningSanderPander@users.noreply.github.com>",
+  "adventConfig": {
+    "year": "2021",
+    "nameTemplate": "day{{num}}.js",
+    "templateFile": "node_modules/advent-of-code/src/templates/day.js"
+  },
+
+  "license": "MIT",
+  "dependencies": {
+    "advent-of-code": "^5.0.0"
+  }
+}
